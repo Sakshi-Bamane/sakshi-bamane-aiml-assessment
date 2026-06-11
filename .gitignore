@@ -8,6 +8,6 @@ __pycache__/
 
 data/*.csv
 
-outputs/*.png
+
 .ipynb_checkpoints/
 .DS_Store
