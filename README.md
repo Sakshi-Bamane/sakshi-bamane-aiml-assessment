@@ -7,6 +7,7 @@ This project predicts whether a lead is likely to convert into a customer using 
 The solution combines:
 
 ✅ Lead Demographic Information
+
 ✅ Company Information
 ✅ Website Behavioral Data
 ✅ Customer Journey Funnel Data
