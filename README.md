@@ -9,7 +9,9 @@ The solution combines:
 ✅ Lead Demographic Information
 
 ✅ Company Information
+
 ✅ Website Behavioral Data
+
 ✅ Customer Journey Funnel Data
 
 to help sales and marketing teams identify high-potential leads and prioritize outreach efforts.
@@ -411,8 +413,11 @@ Successfully developed an end-to-end Lead Conversion Prediction System capable o
 ### Business Value
 
 ✅ Better Lead Prioritization
+
 ✅ Improved Sales Productivity
+
 ✅ Increased Marketing Efficiency
+
 ✅ Data-Driven Decision Making
 
 ---
